@@ -12,7 +12,7 @@ export async function sendReservationEmails(data: ReservationEmailData) {
   await resend.emails.send({
     from: FROM_EMAIL,
     to: data.email,
-    subject: `Your table at Maison Noir — ${data.dateLong}`,
+    subject: `Your table at Sanbay Fusion — ${data.dateLong}`,
     react: GuestConfirmationEmail(data),
   });
 

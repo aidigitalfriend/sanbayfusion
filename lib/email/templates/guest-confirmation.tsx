@@ -37,17 +37,17 @@ export function GuestConfirmationEmail({
   return (
     <Html>
       <Head />
-      <Preview>{`Your table at Maison Noir — ${dateLong} at ${timeSlot}`}</Preview>
+      <Preview>{`Your table at Sanbay Fusion — ${dateLong} at ${timeSlot}`}</Preview>
       <Body style={{ backgroundColor: paper, margin: 0, fontFamily: "Georgia, 'Times New Roman', serif" }}>
         <Container style={{ maxWidth: "560px", margin: "0 auto", padding: "40px 32px" }}>
           <Text style={{ letterSpacing: "0.3em", textTransform: "uppercase", fontSize: "11px", color: gold, fontFamily: "Arial, sans-serif", margin: 0 }}>
-            Maison Noir · Paris
+            Sanbay Fusion Bar & Restaurant · City
           </Text>
           <Heading style={{ color: ink, fontSize: "30px", fontWeight: 400, margin: "16px 0 0" }}>
             Your table is requested
           </Heading>
           <Text style={{ color: muted, fontSize: "16px", lineHeight: "1.6" }}>
-            Dear {name}, thank you for choosing Maison Noir. We have received your
+            Dear {name}, thank you for choosing Sanbay Fusion Bar & Restaurant. We have received your
             reservation request and will confirm shortly by email or phone.
           </Text>
 
@@ -66,7 +66,7 @@ export function GuestConfirmationEmail({
 
           <Hr style={{ borderColor: "#ece7dc", margin: "28px 0" }} />
           <Text style={{ color: muted, fontSize: "12px", fontFamily: "Arial, sans-serif" }}>
-            Maison Noir · 1 Rue de l&apos;Ombre, 75001 Paris · +33 1 23 45 67 89
+            Sanbay Fusion Bar & Restaurant · 1 Main Street, City Center · +00 000 000 0000
           </Text>
         </Container>
       </Body>

@@ -10,7 +10,7 @@ export function HeatSection() {
       <ScrollScale className="absolute inset-0 h-full w-full" range={[1.28, 1]}>
         <Image
           src="/images/fire-from-wok.jpg"
-          alt="Flames leaping from a wok in the Maison Noir kitchen"
+          alt="Flames leaping from a wok in the Sanbay Fusion kitchen"
           fill
           sizes="100vw"
           className="object-cover"

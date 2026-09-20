@@ -1,15 +1,15 @@
 export const site = {
-  name: "Maison Noir",
-  tagline: "Contemporary tasting menus in the heart of the city",
+  name: "Sanbay Fusion",
+  tagline: "Bar & Restaurant",
   description:
-    "Maison Noir is a Michelin-starred restaurant offering a contemporary tasting menu — an intimate, theatrical dining experience built on fire, precision, and the finest seasonal produce.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://maisonnoir.example.com",
+    "Sanbay Fusion Bar & Restaurant brings together contemporary dining, warm hospitality, and a memorable atmosphere in the heart of the city.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://sanbayfusion.com",
   address: {
-    line1: "1 Rue de l'Ombre",
-    line2: "75001 Paris, France",
+    line1: "Sanbay Fusion Bar & Restaurant",
+    line2: "sanbayfusion.com",
   },
-  phone: "+33 1 23 45 67 89",
-  email: "reservations@maisonnoir.example.com",
+  phone: "+00 000 000 0000",
+  email: "info@sanbayfusion.com",
   hours: [
     { days: "Tuesday — Thursday", time: "18:00 — 22:00" },
     { days: "Friday — Saturday", time: "18:00 — 23:00" },

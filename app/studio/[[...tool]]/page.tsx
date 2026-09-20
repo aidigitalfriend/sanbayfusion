@@ -4,7 +4,7 @@ import config from "../../../sanity.config";
 export const dynamic = "force-static";
 
 export const metadata = {
-  title: "Maison Noir Studio",
+  title: "Sanbay Fusion Studio",
   robots: { index: false, follow: false },
 };
 

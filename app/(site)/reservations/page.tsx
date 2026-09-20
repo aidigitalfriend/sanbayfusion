@@ -7,7 +7,7 @@ import { site } from "@/lib/site";
 export const metadata: Metadata = {
   title: "Reservations",
   description:
-    "Reserve your table at Maison Noir — forty seats, one seating, a single tasting menu served across the evening.",
+    "Reserve your table at Sanbay Fusion Bar & Restaurant — forty seats, one seating, a single tasting menu served across the evening.",
   alternates: {
     canonical: "/reservations",
   },
@@ -36,7 +36,7 @@ export default function ReservationsPage() {
             <div className="relative aspect-[5/4] w-full">
               <Image
                 src="/images/nicely-plated-food-served-at-decorated-table.jpg"
-                alt="A table set for the evening at Maison Noir"
+                alt="A table set for the evening at Sanbay Fusion Bar & Restaurant"
                 fill
                 sizes="(min-width: 1024px) 40vw, 100vw"
                 className="object-cover"

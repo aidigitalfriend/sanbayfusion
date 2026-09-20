@@ -16,7 +16,7 @@ export function ArrivalSection() {
       >
         <Image
           src="/images/outdoors-of-the-restaurant.jpg"
-          alt="The understated exterior of Maison Noir at dusk"
+          alt="The understated exterior of Sanbay Fusion Bar & Restaurant at dusk"
           fill
           sizes="100vw"
           className="object-cover"

@@ -100,11 +100,11 @@ export const DEFAULT_STORY: StoryContent = {
     alt: "Chef Élise Laurent plating a dish",
   },
   intro:
-    "Maison Noir began as a single idea: that a great meal is a piece of theatre, and that fire is its oldest, truest language.",
+    "Sanbay Fusion Bar & Restaurant began as a single idea: that a great meal is a piece of theatre, and that fire is its oldest, truest language.",
   body: toBlocks([
-    "After fifteen years in the kitchens of Paris, Lyon, and Copenhagen, Élise Laurent returned home to open a room of her own — forty seats, one seating, no compromise.",
+    "After years of creating memorable evenings, we opened Sanbay Fusion Bar & Restaurant as a warm, modern place for gathering, tasting, and celebration.",
     "The menu is dictated by the season and by the people who grow, fish, and forage for us. There is no à la carte; there is only the evening as we have imagined it, course by course.",
-    "Maison Noir earned its first Michelin star within eighteen months of opening — a recognition not of a single dish, but of a way of cooking: precise, generous, and unafraid of the flame.",
+    "Sanbay Fusion Bar & Restaurant earned its reputation through thoughtful hospitality, bold flavors, and a way of cooking that feels both refined and welcoming.",
   ]),
   accolades: [
     "One Michelin Star",

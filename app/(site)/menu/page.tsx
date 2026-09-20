@@ -8,7 +8,7 @@ import { Reveal, RevealGroup, RevealItem } from "@/components/motion/reveal";
 export const metadata: Metadata = {
   title: "Menu",
   description:
-    "The Maison Noir tasting menu — nine courses of fire, precision, and the season's finest produce.",
+    "The Sanbay Fusion Bar & Restaurant tasting menu — nine courses of fire, precision, and the season's finest produce.",
   alternates: {
     canonical: "/menu",
   },

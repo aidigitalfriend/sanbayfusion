@@ -9,8 +9,8 @@ import { schema } from "./sanity/schemaTypes";
 const singletons = ["menu", "story", "siteSettings", "gallery"];
 
 export default defineConfig({
-  name: "maison-noir",
-  title: "Maison Noir",
+  name: "sanbay-fusion",
+  title: "Sanbay Fusion",
   basePath: "/studio",
   projectId: projectId || "placeholder",
   dataset,

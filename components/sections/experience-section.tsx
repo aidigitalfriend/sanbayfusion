@@ -11,7 +11,7 @@ export function ExperienceSection() {
       <ScrollScale className="absolute inset-0 h-full w-full" range={[1.2, 1]}>
         <Image
           src="/images/nicely-plated-food-served-at-decorated-table.jpg"
-          alt="A beautifully set table mid-service at Maison Noir"
+          alt="A beautifully set table mid-service at Sanbay Fusion Bar & Restaurant"
           fill
           sizes="100vw"
           className="object-cover"

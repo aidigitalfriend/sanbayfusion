@@ -7,8 +7,8 @@ import { Toaster } from "@/components/ui/sonner";
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
   title: {
-    default: `${site.name} — Michelin-Starred Dining`,
-    template: `%s · ${site.name}`,
+    default: "Sanbay Fusion Bar & Restaurant",
+    template: "%s · Sanbay Fusion",
   },
   description: site.description,
   alternates: {
@@ -16,14 +16,14 @@ export const metadata: Metadata = {
   },
   openGraph: {
     type: "website",
-    title: `${site.name} — Michelin-Starred Dining`,
+    title: "Sanbay Fusion Bar & Restaurant",
     description: site.description,
-    siteName: site.name,
+    siteName: "Sanbay Fusion",
     url: site.url,
   },
   twitter: {
     card: "summary_large_image",
-    title: `${site.name} — Michelin-Starred Dining`,
+    title: "Sanbay Fusion Bar & Restaurant",
     description: site.description,
   },
 };

@@ -1,12 +1,12 @@
-# Maison Noir
+# Sanbay Fusion
 
-> **Contemporary tasting menus in the heart of the city.**
-> A bold, cinematic website for a Michelin-starred restaurant — scroll-driven
+> **Bar & Restaurant**
+> A bold, cinematic website for Sanbay Fusion Bar & Restaurant — scroll-driven
 > storytelling, a Sanity-managed menu & story, and a real custom reservation
 > system with transactional email.
 
 <p>
-  <a href="https://github.com/ZakariaShahruri/maison-noir/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/ZakariaShahruri/maison-noir/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/aidigitalfriend/sanbayfusion/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/aidigitalfriend/sanbayfusion/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="Next.js 16" src="https://img.shields.io/badge/Next.js-16-000000?logo=next.js&logoColor=white">
   <img alt="React 19" src="https://img.shields.io/badge/React-19-149ECA?logo=react&logoColor=white">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6?logo=typescript&logoColor=white">
@@ -16,13 +16,13 @@
 </p>
 
 > [!NOTE]
-> **This is a portfolio demo.** *Maison Noir* is a fictional restaurant; all
+> **This is a portfolio demo.** *Sanbay Fusion Bar & Restaurant* is a fictional restaurant concept; all
 > content, imagery, and contact details are placeholders. The project exists to
 > showcase a production-grade Next.js build, not to represent a real business.
 
-**Live demo:** [maison-noir-rho.vercel.app](https://maison-noir-rho.vercel.app/)
+**Live demo:** [sanbayfusion.vercel.app](https://sanbayfusion.vercel.app/)
 
-![Maison Noir — cinematic home page](docs/screenshot.jpg)
+![Sanbay Fusion Bar & Restaurant — cinematic home page](docs/screenshot.jpg)
 
 <p>
   <img alt="The tasting menu page" src="docs/screenshot-menu.jpg" width="49%">

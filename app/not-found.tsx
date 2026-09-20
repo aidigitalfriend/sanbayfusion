@@ -31,7 +31,7 @@ export default function NotFound() {
           >
             <Image
               src="/images/outdoors-of-the-restaurant.jpg"
-              alt="The exterior of Maison Noir at dusk"
+              alt="The exterior of Sanbay Fusion Bar & Restaurant at dusk"
               fill
               priority
               sizes="100vw"
