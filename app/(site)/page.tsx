@@ -5,6 +5,7 @@ import { DishSection } from "@/components/sections/dish-section";
 import { AmbianceSection } from "@/components/sections/ambiance-section";
 import { ExperienceSection } from "@/components/sections/experience-section";
 import { ArrivalSection } from "@/components/sections/arrival-section";
+import { MembershipSection } from "@/components/sections/membership-section";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <CraftSection />
       <DishSection />
       <AmbianceSection />
+      <MembershipSection />
       <ExperienceSection />
       <ArrivalSection />
     </>

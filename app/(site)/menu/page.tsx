@@ -90,12 +90,20 @@ export default async function MenuPage() {
             Menus evolve nightly with the season. Please share any dietary needs
             when you book.
           </p>
-          <Link
-            href="/reservations"
-            className="mt-6 inline-flex items-center justify-center rounded-full bg-gold px-7 py-3 text-eyebrow text-gold-foreground transition-transform hover:-translate-y-0.5"
-          >
-            Reserve a Table
-          </Link>
+          <div className="mt-6 flex flex-wrap items-center justify-center gap-4">
+            <Link
+              href="/reservations"
+              className="inline-flex items-center justify-center rounded-full bg-gold px-7 py-3 text-eyebrow text-gold-foreground transition-transform hover:-translate-y-0.5"
+            >
+              Reserve a Table
+            </Link>
+            <Link
+              href="/membership"
+              className="inline-flex items-center justify-center rounded-full border border-foreground/30 px-7 py-3 text-eyebrow text-foreground transition-colors hover:border-foreground/70"
+            >
+              Membership
+            </Link>
+          </div>
         </Reveal>
       </div>
     </div>
